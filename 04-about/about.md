@@ -1,6 +1,5 @@
 # Professional Profile
 
-**Name/Rank:** Defence Intelligence Officer II – KT ADESHINA  
 **Specialization:** Digital Forensic Intelligence  
 
 ## Overview
